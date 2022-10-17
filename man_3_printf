@@ -98,7 +98,7 @@ The character \fI%\fR is followed by zero the following flags:
 .R A space in blank should be left before a positive number followed by a signed conversion.
 .SH NOTES.R A space in blank should be left before a positive number followed by a signed conversion.
 .SH NOTES
-.R The \fB_printf()\fR is a project collaboration between \Tolulope Fakunle\fR and \Bamidele Adefolaju\fR, actual students of Software Engineering at \fB Alx\fR.
+.R The \fB_printf()\fR is a project collaboration between \Iduozee osbert\fR and \Kelvin Enohuean\fR, actual students of Software Engineering at \fB Alx\fR.
 .SH BUGS
 .R In process
 .SH EXAMPLE
@@ -124,4 +124,4 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Written by \Tolulope Fakunle\fR and \fB Bamidele Adefolju \fR.
+Written by \Iduozee osbert\fR and \fB Kelvin Enohuean \fR.
